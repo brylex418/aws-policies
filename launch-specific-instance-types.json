@@ -25,6 +25,7 @@
                     "ec2:InstanceType": [
                         "t2.micro",
                         "t2.medium"
+                        "m5.large"
                     ]
                 }
             }
